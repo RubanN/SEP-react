@@ -1,6 +1,7 @@
 // import './App.css';
 
-import LocationAddress from "./Ecomverse-admin/LocationAddress";
+// import Index from "./simpleProject/Todolist/Index";
+
 
 // import UseEffect from "./UseEffect/UseEffect";
 // import UseEffect1 from "./UseEffect/UseEffect1";
@@ -18,8 +19,7 @@ function App() {
       {/* <UseEffect2/> */}
      {/* <HideAndShow/> */}
      {/* <HandleForm/> */}
-  <LocationAddress/>
-
+       {/* <Index/> */}
 
 
 
