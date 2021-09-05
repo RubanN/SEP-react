@@ -1,5 +1,11 @@
 // import './App.css';
 
+import UseRef from "./UseRef/UseRef";
+import UseState3 from "./UseState/UseState3";
+import UseStateObj from "./UseState/UseStateObj";
+// import UseState2 from "./UseState/UseState2";
+// import UseState1 from "./UseState/UseState1";
+
 // import Index from "./simpleProject/Todolist/Index";
 
 
@@ -20,8 +26,11 @@ function App() {
      {/* <HideAndShow/> */}
      {/* <HandleForm/> */}
        {/* <Index/> */}
-
-
+       <UseRef/>
+       {/* <UseState1/> */}
+       {/* <UseState2/> */}
+        {/* <UseState3/> */}
+       <UseStateObj/>
 
 
 
