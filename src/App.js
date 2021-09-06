@@ -4,6 +4,10 @@
 // import UseEffect5 from "./UseEffect/UseEffect5";
 // import UseEffect6 from "./UseEffect/UseEffect6";
 // import UseEffect7 from "./UseEffect/UseEffect7";
+// import UseEffect8 from "./UseEffect/UseEffect8";
+// import UseEffect9 from "./UseEffect/UseEffect9";
+// import UseEffect10 from "./UseEffect/UseEffect10";
+// import UseEffect11 from "./UseEffect/UseEffect11";
 import UseRef from "./UseRef/UseRef";
 // import UseState5 from "./UseState/UseState5";
 // import UseState4 from "./UseState/UseState4";
@@ -43,7 +47,10 @@ function App() {
        {/* <UseState4/> */}
        {/* <UseState5/> */}
        {/* <UseEffect7/> */}
-
+       {/* <UseEffect8/> */}
+       {/* <UseEffect9/> */}
+        {/* <UseEffect10/> */}
+        {/* <UseEffect11/> */}
 
 
 
